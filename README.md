@@ -170,7 +170,7 @@ For reliable experiments, record the random seed, dataset version, preprocessing
 
 ## Author
 
-Developed by **[Your Name]**.
+Developed by **Nusrat Jahan Isma**
 
 - GitHub: [232001712-maker](https://github.com/232001712-maker)
 
